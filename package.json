@@ -1,0 +1,21 @@
+{
+  "name": "nukedvpnbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nixvz",
+  "license": "ISC",
+  "dependencies": {
+    "bool": "^1.0.20",
+    "discord.js": "^12.3.1",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.7",
+    "ping": "^0.2.3",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^3.2.1"
+  },
+  "devDependencies": {},
+  "description": "nixvz"
+}
